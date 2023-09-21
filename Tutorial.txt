@@ -1,0 +1,17 @@
+- Clone the github repo
+- Intall the req dependencies
+- Navigate to app.py
+ 	- removed pointer functionality(commented)
+	- removed finger gesture text on video(commented)
+- To train objects of new class
+	- Navigate model -> keypoint_classifer -> label.csv
+	- Add the label of the new classes
+	- Navigate to app.py and run the file
+	- Press the key "k" for to start the training
+	- press the class index of the specific class being trained.
+	- all these recodings will be stored in keypoint.csv
+	- once the data collection is done navigate to 		keypoint_classfication.ipynb
+	- In this file change the no_of_classes
+	- Run all to train the model
+	- Once the training is done run app.py to test the model
+	- Retrain the model if not satisfied with the results.
