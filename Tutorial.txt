@@ -1,5 +1,5 @@
 - Clone the github repo
-- Intall the req dependencies
+- Intall the required dependencies
 - Navigate to app.py
  	- removed pointer functionality(commented)
 	- removed finger gesture text on video(commented)
@@ -15,3 +15,4 @@
 	- Run all to train the model
 	- Once the training is done run app.py to test the model
 	- Retrain the model if not satisfied with the results.
+Build a UI for the users to interract with the application and set their own notes and actions accordingly.
