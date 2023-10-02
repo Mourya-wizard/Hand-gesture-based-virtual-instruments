@@ -35,7 +35,7 @@ Before you can use this virtual instrument, you need to have the following insta
 1. Clone or download this repository to your local machine.
 
 ```bash
-git clone https://github.com/your_username/hand-gesture-virtual-instrument.git
+git clone https://github.com/Mourya-wizrd/hand-gesture-virtual-instrument.git
 cd hand-gesture-virtual-instrument
 ```
 
