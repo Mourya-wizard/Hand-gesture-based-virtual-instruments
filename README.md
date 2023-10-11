@@ -1,6 +1,7 @@
 # Hand Gesture Based Virtual Instrument
 
-This is a hand gesture-based virtual instrument created using OpenCV, MediaPipe, and other libraries. With this application, you can interact with your computer using hand gestures to play different musical notes or trigger various sound effects. This README file will guide you through the project and help you get started.
+This is a hand gesture-based virtual instrument created using OpenCV, MediaPipe, and other libraries.
+With this application, you can interact with your computer using hand gestures to play different musical notes or trigger various sound effects. This README file will guide you through the project and help you get started.
 
 ## Table of Contents
 - [Introduction](#introduction)
